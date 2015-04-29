@@ -1,0 +1,28 @@
+﻿Сборка начата 18.03.2015 22:51:39.
+     1>Проект "c:\Users\user\documents\visual studio 2013\Projects\Zadacha2_1\Zadacha2_1\Zadacha2_1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\e-academy Inc\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Factorial.cpp
+         Factorial.cpp
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(1): error C2873: System: использование символа в "using"-объявлении не допускается
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(2): error C2143: синтаксическая ошибка: отсутствие ";" перед "."
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(2): error C2873: System: использование символа в "using"-объявлении не допускается
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(2): error C2059: синтаксическая ошибка: .
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(3): error C2143: синтаксическая ошибка: отсутствие ";" перед "."
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(3): error C2873: System: использование символа в "using"-объявлении не допускается
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(3): error C2059: синтаксическая ошибка: .
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(4): error C2143: синтаксическая ошибка: отсутствие ";" перед "."
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(4): error C2873: System: использование символа в "using"-объявлении не допускается
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(4): error C2059: синтаксическая ошибка: .
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(10): error C2061: синтаксическая ошибка: идентификатор "string"
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(16): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(12): error C2065: Console: необъявленный идентификатор
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(12): error C2228: выражение слева от ".WriteLine" должно представлять класс, структуру или объединение
+                 тип: unknown-type
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(13): error C2065: Console: необъявленный идентификатор
+     1>c:\users\user\documents\visual studio 2013\projects\zadacha2_1\zadacha2_1\factorial.cpp(13): error C2228: выражение слева от ".ReadKey" должно представлять класс, структуру или объединение
+                 тип: unknown-type
+     1>Сборка проекта "c:\Users\user\documents\visual studio 2013\Projects\Zadacha2_1\Zadacha2_1\Zadacha2_1.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.20
