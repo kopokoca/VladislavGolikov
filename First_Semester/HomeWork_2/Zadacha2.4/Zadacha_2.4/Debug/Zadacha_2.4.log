@@ -1,0 +1,13 @@
+﻿Сборка начата 07.10.2014 21:37:34.
+     1>Проект "C:\Users\user\Documents\Visual Studio 2013\Projects\Zadacha_2.4\Zadacha_2.4\Zadacha_2.4.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\e-academy Inc\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Исходный код.cpp"
+         Исходный код.cpp
+       Link:
+         D:\e-academy Inc\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Documents\Visual Studio 2013\Projects\Zadacha_2.4\Debug\Zadacha_2.4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Documents\Visual Studio 2013\Projects\Zadacha_2.4\Debug\Zadacha_2.4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Documents\Visual Studio 2013\Projects\Zadacha_2.4\Debug\Zadacha_2.4.lib" /MACHINE:X86 "Debug\Исходный код.obj"
+         Zadacha_2.4.vcxproj -> C:\Users\user\Documents\Visual Studio 2013\Projects\Zadacha_2.4\Debug\Zadacha_2.4.exe
+     1>Сборка проекта "C:\Users\user\Documents\Visual Studio 2013\Projects\Zadacha_2.4\Zadacha_2.4\Zadacha_2.4.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.78
