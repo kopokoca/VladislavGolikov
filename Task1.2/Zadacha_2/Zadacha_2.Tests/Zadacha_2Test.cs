@@ -16,8 +16,15 @@ namespace Zadacha_2.Tests
         [TestMethod]
         public void fibTest2()
         {
-            string result = "Ошибка!";
-            Assert.AreEqual(result, Zadacha_2.Fib.fib(0));
+            string result = "1 1 2 3 5 8 ";
+            Assert.AreEqual(result, Zadacha_2.Fib.fib(6));
         }
+
+        [TestMethod]
+         [ExpectedException(typeof(NegativeNumberException))]
+         public void NegativeNumberTest()
+         {
+             Fib.fib(-2);
+         }
     }
 }

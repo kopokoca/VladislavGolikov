@@ -6,6 +6,18 @@ using System.Threading.Tasks;
 
 namespace Zadacha_2
 {
+    [Serializable]
+     public class NegativeNumberException : Exception
+   {
+        public NegativeNumberException() { }
+        public NegativeNumberException(string message) : base(message) { }
+        public NegativeNumberException(string message, Exception inner) : base(message, inner) { }
+        protected NegativeNumberException(
+          System.Runtime.Serialization.SerializationInfo info,
+          System.Runtime.Serialization.StreamingContext context)
+            : base(info, context) { }
+    }
+
     public class Fib
     {
 // Метод вычисляет числа Фибонначи вплоть до заданного кол-ва, возвращает строку с ответом
@@ -13,7 +25,7 @@ namespace Zadacha_2
         {
             if (number <= 0)
             {
-                return "Ошибка!";
+                throw new NegativeNumberException();
             }
             else
             {
