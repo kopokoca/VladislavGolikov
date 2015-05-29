@@ -1,0 +1,7 @@
+C:\Users\user\Programms\Second_Semester\HW_1\Zadacha_3\Zadacha_3.Tests\bin\Debug\Zadacha_3.Tests.dll
+C:\Users\user\Programms\Second_Semester\HW_1\Zadacha_3\Zadacha_3.Tests\bin\Debug\Zadacha_3.Tests.pdb
+C:\Users\user\Programms\Second_Semester\HW_1\Zadacha_3\Zadacha_3.Tests\bin\Debug\Zadacha_3.exe
+C:\Users\user\Programms\Second_Semester\HW_1\Zadacha_3\Zadacha_3.Tests\bin\Debug\Zadacha_3.pdb
+C:\Users\user\Programms\Second_Semester\HW_1\Zadacha_3\Zadacha_3.Tests\obj\Debug\Zadacha_3.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Programms\Second_Semester\HW_1\Zadacha_3\Zadacha_3.Tests\obj\Debug\Zadacha_3.Tests.dll
+C:\Users\user\Programms\Second_Semester\HW_1\Zadacha_3\Zadacha_3.Tests\obj\Debug\Zadacha_3.Tests.pdb

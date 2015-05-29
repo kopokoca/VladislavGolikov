@@ -1,0 +1,6 @@
+C:\Users\user\Programms\Second_Semester\HW_1\Zadacha_3\Zadacha_3\bin\Debug\Zadacha_3.exe.config
+C:\Users\user\Programms\Second_Semester\HW_1\Zadacha_3\Zadacha_3\bin\Debug\Zadacha_3.exe
+C:\Users\user\Programms\Second_Semester\HW_1\Zadacha_3\Zadacha_3\bin\Debug\Zadacha_3.pdb
+C:\Users\user\Programms\Second_Semester\HW_1\Zadacha_3\Zadacha_3\obj\Debug\Zadacha_3.csprojResolveAssemblyReference.cache
+C:\Users\user\Programms\Second_Semester\HW_1\Zadacha_3\Zadacha_3\obj\Debug\Zadacha_3.exe
+C:\Users\user\Programms\Second_Semester\HW_1\Zadacha_3\Zadacha_3\obj\Debug\Zadacha_3.pdb
