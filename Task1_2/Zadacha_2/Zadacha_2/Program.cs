@@ -20,7 +20,10 @@ namespace Zadacha_2
 
     public class Fib
     {
-// Метод вычисляет числа Фибонначи вплоть до заданного кол-ва, возвращает строку с ответом
+        /// <summary>
+        /// Этот метод считает числа Фибоначчи
+        /// </summary>
+        /// <returns>Строка с числами</returns>
         public static string fib(int number)
         {
             if (number <= 0)
@@ -51,11 +54,6 @@ namespace Zadacha_2
             int number = int.Parse(Console.ReadLine());
             string result = fib(number);
             Console.WriteLine(result);
-        }
-
-        public static object fib()
-        {
-            throw new NotImplementedException();
         }
     }
 }
