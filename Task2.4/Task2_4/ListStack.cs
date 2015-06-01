@@ -3,6 +3,9 @@ using StackCalculator;
 
 namespace StackCalculator
 {
+    /// <summary>
+    ///  В классе находятся возможности действий со стеком (реализация списком)
+    /// </summary>
     public class ListStack<T> : InterfaceStack<T>
     {
         private StackElement head;

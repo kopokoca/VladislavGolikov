@@ -2,6 +2,9 @@
 
 namespace StackCalculator
 {
+    /// <summary>
+    /// Калькулятор
+    /// </summary>
     public class StackCalculator
     {
         public int ParseNumber(string expression, ref int position)

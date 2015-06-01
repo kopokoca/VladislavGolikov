@@ -2,6 +2,9 @@
 
 namespace StackCalculator
 {
+    /// <summary>
+    /// Интерфейс стека
+    /// </summary>
     public interface InterfaceStack<Type>
     {
         /// <summary>

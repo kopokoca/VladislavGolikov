@@ -3,6 +3,9 @@ using StackCalculator;
 
 namespace StackCalculator
 {
+    /// <summary>
+    ///  В классе находятся возможности действий со стеком (реализация с помощью массива)
+    /// </summary>
     public class ArrayStack<T> : InterfaceStack<T>
     {
         private int lastElementIndex;
