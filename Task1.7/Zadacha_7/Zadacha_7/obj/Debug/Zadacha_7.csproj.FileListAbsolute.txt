@@ -1,6 +1,0 @@
-C:\Users\user\Programms\Task1.7\Zadacha_7\Zadacha_7\bin\Debug\Zadacha_7.exe.config
-C:\Users\user\Programms\Task1.7\Zadacha_7\Zadacha_7\bin\Debug\Zadacha_7.exe
-C:\Users\user\Programms\Task1.7\Zadacha_7\Zadacha_7\bin\Debug\Zadacha_7.pdb
-C:\Users\user\Programms\Task1.7\Zadacha_7\Zadacha_7\obj\Debug\Zadacha_7.csprojResolveAssemblyReference.cache
-C:\Users\user\Programms\Task1.7\Zadacha_7\Zadacha_7\obj\Debug\Zadacha_7.exe
-C:\Users\user\Programms\Task1.7\Zadacha_7\Zadacha_7\obj\Debug\Zadacha_7.pdb
