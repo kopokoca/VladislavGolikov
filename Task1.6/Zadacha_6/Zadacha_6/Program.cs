@@ -1,18 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Zadacha_6
 {
+    /// <summary>
+    /// Этот класс выводит эл-ты матрицы по спирали
+    /// </summary>
    public class Program
     {
         /// <summary>
         /// Этот метод выводит эл-ты матрицы по спирали
         /// </summary>
         /// <returns>Строка с эл-тами</returns>
-        public static string spiralMethod(int[,] array, int size)
+        public static string SpiralMethod(int[,] array, int size)
         {
             --size;
             int x = size / 2;
@@ -77,7 +76,7 @@ namespace Zadacha_6
                 }
             }
 
-            string result = spiralMethod(array, size);
+            string result = SpiralMethod(array, size);
             Console.Write("Вывод по спирали:\n" + result);
             Console.Write("\n");
             return;
