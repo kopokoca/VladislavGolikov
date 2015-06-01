@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Task2_3
 {
+    /// <summary>
+    ///  В классе находятся возможности действий со списком
+    /// </summary>
     public class List<T>
     {
         private ListElement head;

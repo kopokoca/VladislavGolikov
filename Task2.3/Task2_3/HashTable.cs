@@ -2,7 +2,9 @@
 
 namespace Task2_3
 {
-
+    /// <summary>
+    ///  В классе находятся возможности действий с хеш-таблицей
+    /// </summary>
     public class HashTable
     {
         private List<string>[] hashSet;
