@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Task2_1
 {
+    /// <summary>
+    ///  В классе находятся возможности действий со стеком
+    /// </summary>
     public class Stack<Type>
     {
         private StackElement head;
