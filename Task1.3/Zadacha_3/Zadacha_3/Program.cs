@@ -1,14 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Zadacha_3
 {
-    class sort
+    /// <summary>
+    /// Этот класс сортирует массив
+    /// </summary>
+    public class Sort
     {
-        public static int[] bubbleSort(int[] array, int numb)
+        /// <summary>
+        /// Этот метод сортирует массив методом пузырька
+        /// </summary>
+        /// <returns>Строка с отсортированными элементами</returns>
+        public static string BubbleSort(int[] array, int numb)
         {
             for (int i = 0; i < numb; ++i)
                 for (int j = 0; j < numb; ++j)
@@ -20,20 +23,28 @@ namespace Zadacha_3
                         array[j] = temp;
                     }
                 }
-            Console.WriteLine("Результат: "); 
+            Console.WriteLine("Результат: ");
+
+            string result = "";
   
             for (int i = 0; i < numb; ++i)
             {
-                Console.WriteLine(array[i] + " ");
+                result += array[i] + " ";
             }
 
-            return array;
+            return result;
         }
 
         public static void Main()
         {
             Console.WriteLine("Введите кол-во чисел в массиве: ");
             int number = int.Parse(Console.ReadLine());
+
+            if (number < 1)
+            {
+                throw new NegativeNumberException();
+            }
+
             int[] array = new int[number];
             Console.WriteLine("Введите массив: ");
 
@@ -41,7 +52,9 @@ namespace Zadacha_3
             {
                 array[i] = int.Parse(Console.ReadLine());
             }
-            array = bubbleSort(array, number);
+
+            string result = "";
+            result = BubbleSort(array, number);
 
         }
     }
