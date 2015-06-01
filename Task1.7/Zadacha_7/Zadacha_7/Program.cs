@@ -1,14 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Zadacha_7
 {
+    /// <summary>
+    /// Класс сортирует двумерный массив по столбцам
+    /// </summary>
     public class Program
     {
-        static void swap(int[,] array, int num1, int num2)
+        /// <summary>
+        /// Метод, который сортирует двумерный массив по столбцам
+        /// </summary>
+        static void Swap(int[,] array, int num1, int num2)
         {
 
             for (int i = 0; i < array.GetLength(0); i++)
@@ -19,7 +21,7 @@ namespace Zadacha_7
             }
         }
 
-      public static string selectionSort(int[,] array, int m, int n)
+      public static string SelectionSort(int[,] array, int m, int n)
         {
             int min = 0;
 
@@ -37,7 +39,7 @@ namespace Zadacha_7
 
                 if (min != i)
                 {
-                    swap(array, i, min);
+                    Swap(array, i, min);
                 }
             }
 
@@ -74,7 +76,7 @@ namespace Zadacha_7
                 Console.WriteLine();
             }
 
-            selectionSort(array, height, width);
+            SelectionSort(array, height, width);
 
             Console.WriteLine("Матрица, отсортированная по столбцам:");
 

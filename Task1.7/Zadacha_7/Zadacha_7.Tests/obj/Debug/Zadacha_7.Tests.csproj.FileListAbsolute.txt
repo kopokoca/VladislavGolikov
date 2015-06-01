@@ -1,0 +1,7 @@
+C:\Users\user\Programms\Task1.7\Zadacha_7\Zadacha_7.Tests\bin\Debug\Zadacha_7.Tests.dll
+C:\Users\user\Programms\Task1.7\Zadacha_7\Zadacha_7.Tests\bin\Debug\Zadacha_7.Tests.pdb
+C:\Users\user\Programms\Task1.7\Zadacha_7\Zadacha_7.Tests\bin\Debug\Zadacha_7.exe
+C:\Users\user\Programms\Task1.7\Zadacha_7\Zadacha_7.Tests\bin\Debug\Zadacha_7.pdb
+C:\Users\user\Programms\Task1.7\Zadacha_7\Zadacha_7.Tests\obj\Debug\Zadacha_7.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Programms\Task1.7\Zadacha_7\Zadacha_7.Tests\obj\Debug\Zadacha_7.Tests.dll
+C:\Users\user\Programms\Task1.7\Zadacha_7\Zadacha_7.Tests\obj\Debug\Zadacha_7.Tests.pdb
