@@ -5,12 +5,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Zadacha_1.Tests")]
+[assembly: AssemblyTitle("Zadacha_2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Zadacha_1.Tests")]
->>>>>>> 385498a26e86c04f102c4fe7564ec6c241cf74c1:Task1.1/Zadacha_1/Zadacha_1.Tests/Properties/AssemblyInfo.cs
+[assembly: AssemblyProduct("Zadacha_2")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,9 +19,8 @@ using System.Runtime.InteropServices;
 // COM, задайте атрибуту ComVisible значение TRUE для этого типа.
 [assembly: ComVisible(false)]
 
-// Если данный проект доступен для модели COM, следующий GUID используется в качестве идентификатора библиотеки типов
-[assembly: Guid("821399f7-9f6d-465d-ab8a-86aa26bb0628")]
->>>>>>> 385498a26e86c04f102c4fe7564ec6c241cf74c1:Task1.1/Zadacha_1/Zadacha_1.Tests/Properties/AssemblyInfo.cs
+// Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
+[assembly: Guid("68bf1234-34c3-4675-b076-337cb5154baf")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
