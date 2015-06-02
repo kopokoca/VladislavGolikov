@@ -8,7 +8,7 @@ namespace Zadacha_7
     public class Program
     {
         /// <summary>
-        /// Метод, который сортирует двумерный массив по столбцам
+        /// Метод, который меняет столбцы местами
         /// </summary>
         static void Swap(int[,] array, int num1, int num2)
         {
@@ -20,7 +20,9 @@ namespace Zadacha_7
                 array[i, num2] = temp;
             }
         }
-
+        /// <summary>
+        /// Метод, который сортирует двумерный массив по столбцам
+        /// </summary>
       public static string SelectionSort(int[,] array, int m, int n)
         {
             int min = 0;
