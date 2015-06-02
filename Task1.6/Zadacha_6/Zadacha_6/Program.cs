@@ -16,7 +16,7 @@ namespace Zadacha_6
             --size;
             int x = size / 2;
             int y = x;
-            string result = Convert.ToString(array[x,y]) + " ";
+            string result = Convert.ToString(array[x, y]) + " ";
 
             if (size == 0)
             {
@@ -36,12 +36,28 @@ namespace Zadacha_6
                         return result;
                     }
 
-                    switch( direction % 4)
+                    switch (direction % 4)
                     {
-                        case 1: ++x; break;
-                        case 2: ++y; break;
-                        case 3: --x; break;
-                        case 0: --y; break;
+                        case 1:
+                            {
+                                ++x;
+                                break;
+                            } 
+                        case 2:
+                            {
+                                ++y; 
+                                break;
+                            }
+                        case 3:
+                            {
+                                --x; 
+                                break;
+                            }
+                        case 0:
+                            {
+                                --y; 
+                                break;
+                            }
                     }
 
                     result += Convert.ToString(array[x, y]) + " ";
@@ -79,7 +95,6 @@ namespace Zadacha_6
             string result = SpiralMethod(array, size);
             Console.Write("Вывод по спирали:\n" + result);
             Console.Write("\n");
-            return;
         }
     }
 }
